@@ -1,14 +1,18 @@
 package GoalPioneers.Formats.txt;
 
-import GoalPioneers.Formats.Templates.DataSet.DatasetExporterFacade;
+
+import GoalPioneers.Formats.Templates.DataSet.DataSetExporterFacade;
 
 
 /**
  * 
  */
 public class TXTExporter 
-        implements DatasetExporterFacade
+        implements DataSetExporterFacade
 {
+    /**
+     * 
+     */
     public TXTExporter()
     {
         

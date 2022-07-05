@@ -1,7 +1,15 @@
 package GoalPioneers.Formats.txt;
 
-public class Debug 
+
+/**
+ * 
+ */
+public class Debug
 {
+    /**
+     * 
+     * @param args
+     */
     public static void main( String[] args )
     {
         
